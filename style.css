@@ -1,5 +1,8 @@
 body {
   background-color: #e0ffff;
+  margin-top: 20px;
+  background-image: url('purpleGrad_horiz.jpg');
+  background-repeat: repeat-y;
 }
 p {
   color: #2c3333;
