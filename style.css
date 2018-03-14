@@ -1,6 +1,7 @@
 #container {
   margin-top: 20px;
   width: 1030px;
+  height: 800px;
   background-image: url('purpleGrad_horiz.jpg');
   background-repeat: repeat-y;
 }
